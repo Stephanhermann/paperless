@@ -1,0 +1,18 @@
+{
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "expand",
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "workbench.editor.scrollToSwitchTabs": true,
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.defaultBinaryEditor": "workbench.editor.chatSession",
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.centeredLayoutFixedWidth": true,
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.excludeDirty": true,
+    "workbench.editor.limit.perEditorGroup": true,
+    "workbench.editor.preferHistoryBasedLanguageDetection": true,
+    "workbench.editor.sharedViewState": true
+}
