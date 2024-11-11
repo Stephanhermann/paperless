@@ -1,0 +1,10 @@
+{
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "workbench.editor.scrollToSwitchTabs": true,
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.defaultBinaryEditor": "workbench.editor.chatSession"
+}
